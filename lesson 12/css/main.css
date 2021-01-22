@@ -1,0 +1,17 @@
+.header {
+  font-style: 15px;
+  line-height: 1.5;
+  margin: 60px auto;
+}
+.section-header {
+  font-style: 20px;
+  line-height: 1.5;
+  margin: 60px auto;
+  background-color: #eeeeee;
+  color: #fff;
+}
+span {
+  font-style: 20px;
+  line-height: 1.5;
+  margin: 60px auto;
+}
